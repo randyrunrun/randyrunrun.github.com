@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.9d5b29c0.chunk.css",
-    "main.js": "./static/js/main.f6413d4d.chunk.js",
-    "main.js.map": "./static/js/main.f6413d4d.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.1231e1bd.js",
-    "runtime-main.js.map": "./static/js/runtime-main.1231e1bd.js.map",
-    "static/js/2.87579cf3.chunk.js": "./static/js/2.87579cf3.chunk.js",
-    "static/js/2.87579cf3.chunk.js.map": "./static/js/2.87579cf3.chunk.js.map",
-    "static/js/3.8e04d233.chunk.js": "./static/js/3.8e04d233.chunk.js",
-    "static/js/3.8e04d233.chunk.js.map": "./static/js/3.8e04d233.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "./static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.87579cf3.chunk.js.LICENSE.txt": "./static/js/2.87579cf3.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "./static/media/logo.6ce24c58.svg"
+    "main.css": "/randyrunrun.github.com/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/randyrunrun.github.com/static/js/main.f6413d4d.chunk.js",
+    "main.js.map": "/randyrunrun.github.com/static/js/main.f6413d4d.chunk.js.map",
+    "runtime-main.js": "/randyrunrun.github.com/static/js/runtime-main.6e68395f.js",
+    "runtime-main.js.map": "/randyrunrun.github.com/static/js/runtime-main.6e68395f.js.map",
+    "static/js/2.87579cf3.chunk.js": "/randyrunrun.github.com/static/js/2.87579cf3.chunk.js",
+    "static/js/2.87579cf3.chunk.js.map": "/randyrunrun.github.com/static/js/2.87579cf3.chunk.js.map",
+    "static/js/3.8e04d233.chunk.js": "/randyrunrun.github.com/static/js/3.8e04d233.chunk.js",
+    "static/js/3.8e04d233.chunk.js.map": "/randyrunrun.github.com/static/js/3.8e04d233.chunk.js.map",
+    "index.html": "/randyrunrun.github.com/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/randyrunrun.github.com/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.87579cf3.chunk.js.LICENSE.txt": "/randyrunrun.github.com/static/js/2.87579cf3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/randyrunrun.github.com/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1231e1bd.js",
+    "static/js/runtime-main.6e68395f.js",
     "static/js/2.87579cf3.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.f6413d4d.chunk.js"

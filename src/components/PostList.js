@@ -7,6 +7,8 @@ import CircularProgress from 'material-ui/CircularProgress';
 import Divider from 'material-ui/Divider';
 import { List, ListItem } from 'material-ui/List';
 import { truncate } from '../helpers/utilities';
+import { Button } from 'antd';
+import './App.css';
 
 export const TRUNCATION_LIMIT = 150;
 
@@ -30,6 +32,7 @@ export default class PostList extends PureComponent {
 
     return (
       <div>
+        <Button type="primary">Button</Button>
         {/* posts */}
         {posts.map(({ id, title, summary, date, slug }, index) => (
           <List key={index}>
@@ -46,6 +49,7 @@ export default class PostList extends PureComponent {
                   <div style={{ textAlign: 'right' }}>
                     <time dateTime={date}>{moment(date).fromNow()}</time>
                   </div>
+                  <img src="https://reading-1259170587.cos.ap-chengdu.myqcloud.com/resource/logo.png"></img>
                 </article>
               </ListItem>
             </Link>

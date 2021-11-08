@@ -9,13 +9,13 @@ export default class Editer extends React.Component {
     outputHTML: '<p></p>'
   }
 
-  componentDidMount () {
+  componentDidMount() {
     this.isLivinig = true
     // 3秒后更改编辑器内容
     setTimeout(this.setEditorContentAsync, 3000)
   }
 
-  componentWillUnmount () {
+  componentWillUnmount() {
     this.isLivinig = false
   }
 
@@ -32,7 +32,7 @@ export default class Editer extends React.Component {
     })
   }
 
-  render () {
+  render() {
 
     const { editorState, outputHTML } = this.state
 
